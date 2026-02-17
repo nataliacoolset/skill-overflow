@@ -11,7 +11,7 @@ version: 1.0.0
 
 # Coolset Academy Writing
 
-Coolset is an Amsterdam-based platform that helps companies measure, analyze and reduce their emissions. Academy content targets EU-based professionals – from C-level executives to sustainability managers and consultants – who need practical guidance on regulations like CSRD, EUDR and the EU Taxonomy.
+Coolset is an Amsterdam-based platform that helps companies measure, analyze and reduce their emissions and comply with ESG and supply chain regulations such as CSRD, EUDR and EcoVadis. Academy content targets EU-based professionals – from compliance managers, supply chain and procurement managers and ESG teams – who need practical guidance on regulations like CSRD, EUDR and the EU Taxonomy.
 
 ## Coolset voice
 
@@ -41,7 +41,7 @@ Spell out terms fully on first mention, then use acronyms.
 
 ## Research requirements
 
-Always conduct web research before writing. Prioritize authoritative sources: EU Commission, Eurostat, EEA, official regulatory bodies. Verify all statistics and cite sources directly in text. If a statistic cannot be cited, leave it out. Search for existing Coolset articles to link internally (search: "site:coolset.com [topic]").
+Always conduct web research before writing. Never make anything up for which you don't have trustworthy resource. Prioritize authoritative sources: EU Commission, Eurostat, EEA, official regulatory bodies. Verify all statistics and cite sources directly in text. If a statistic cannot be cited, leave it out. Search for existing Coolset articles to link internally (search: "site:coolset.com [topic]").
 
 ## Reference files
 
